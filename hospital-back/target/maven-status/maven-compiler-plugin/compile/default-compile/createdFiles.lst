@@ -24,7 +24,6 @@ utez\edu\mx\hospitalback\security\ControllerValidationHandler.class
 utez\edu\mx\hospitalback\security\jwt\JWTUtils.class
 utez\edu\mx\hospitalback\security\GlobalExceptionHandler.class
 utez\edu\mx\hospitalback\modules\patient\dto\RegisterPatientDTO.class
-utez\edu\mx\hospitalback\utils\DBConnection.class
 utez\edu\mx\hospitalback\config\DataInitializer.class
 utez\edu\mx\hospitalback\modules\patient\PatientController.class
 utez\edu\mx\hospitalback\modules\user\UserController.class
